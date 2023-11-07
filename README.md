@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Matt Jinman
+
+#### I'm currently a Senior Geospatial Advisor working in the GeoSpatial Team at ONS and I am working on the "As Is" and "To Be" for the new geospatial strategy going forward.
+
+#### I'm currently learning Python and R geospatial programs.
 
 <!--
 **jinman1883/jinman1883** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
